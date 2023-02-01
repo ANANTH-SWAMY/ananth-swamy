@@ -1,5 +1,7 @@
+# Hi there, Swamy here!
+
 <p align="center">
-<h1>Hi there, Swamy here!</h1>
+  <img src="carbon.png">
 </p>
 
 <p align="center">
