@@ -11,7 +11,7 @@
 ## Softwares I Use:
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,html,css,js,qt,bash,powershell,mysql,linux,md,arduino,raspberrypi,netlify,neovim,vim,vscode&perline=4">
+<img src="https://skillicons.dev/icons?i=py,html,css,js,c,qt,bash,powershell,mysql,linux,md,arduino,raspberrypi,netlify,neovim,vscode&perline=4">
 </p>
 
 <p align="center">
