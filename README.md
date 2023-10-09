@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ananth-swamy&show_icons=true&text_color=00b3d6&title_color=00b3d6&icon_color=00b3d6&bg_color=000000&border_color=00b3d6&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ananth-swamy&show_icons=true&text_color=00b3d6&title_color=00b3d6&icon_color=00b3d6&bg_color=000000&border_color=00b3d6">
 </p>
 
 ## Softwares I Use:
