@@ -23,3 +23,7 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman">
 </p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ANANTH-SWAMY&label=Profile%20Views&color=12&icon=2&pretty=false" />
+</p>
