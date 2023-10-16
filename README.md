@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=hackerman">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=hackerman">
 </p>
 
 <p align="center">
