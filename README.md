@@ -19,6 +19,10 @@
 </p>
 
 ---
+## Hacktoberfest 2023
+[![An image of @ananthswamy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananthswamy)](https://holopin.io/@ananthswamy)
+
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=hackerman&border=true">
