@@ -1,7 +1,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&pause=1000&color=00B3D6&background=000000&center=true&vCenter=true&repeat=false&random=false&width=460&lines=Hi+there%2C+Ananth+here" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <img src="carbon.png">
+  <img src="carbon1.png">
 </p>
 
 <p align="center">
