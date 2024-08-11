@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-swamy&text_color=00b3d6&title_color=00b3d6&icon_color=00b3d6&bg_color=000000&border_color=00b3d6&langs_count=6&layout=compact&exclude_repo=Phobos">
 </p>
 
----
+
 ## Hacktoberfest 2023
 [![An image of @ananthswamy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananthswamy)](https://holopin.io/@ananthswamy)
 
