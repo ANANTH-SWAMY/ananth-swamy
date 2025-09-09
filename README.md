@@ -7,24 +7,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ananth-swamy&show_icons=true&text_color=00b3d6&title_color=00b3d6&icon_color=00b3d6&bg_color=000000&border_color=00b3d6">
 </p>
-
-## Softwares I Use:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,html,css,js,go,c,react,tailwind,git,qt,bash,powershell,mysql,linux,md,arduino,raspberrypi,netlify,neovim,vscode&perline=5">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-swamy&text_color=00b3d6&title_color=00b3d6&icon_color=00b3d6&bg_color=000000&border_color=00b3d6&langs_count=6&layout=compact&exclude_repo=Phobos,berry,CC-Monolith">
-</p>
-
-
-## Hacktoberfest 2023
-[![An image of @ananthswamy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananthswamy)](https://holopin.io/@ananthswamy)
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=hackerman&border=true">
-</p>
-
